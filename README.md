@@ -1,4 +1,4 @@
-<h1 align="center"> Data Preprocessing </h1>h1
+<h1 align="center"> Data Preprocessing </h1>
 <h3 align="left"> # Handle missing values and outliers appropriately. <br/> #Normalize or scale features as needed. <br/>Split the data into training and testing sets.</h3>
 
 <p align="left">
